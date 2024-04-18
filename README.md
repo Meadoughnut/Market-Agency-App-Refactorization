@@ -50,7 +50,7 @@ For any inquiries or feedback regarding the project, feel free to contact the pr
 
 Meadin Menbere
 meadinmenbere488@gmail.com
-<link to github profile>
+
 ---
 
 This README provides an overview of the refactorization process and how to contribute to the project. Feel free to customize it further according to your project's specific requirements.
