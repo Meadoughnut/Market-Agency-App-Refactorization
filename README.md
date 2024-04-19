@@ -10,7 +10,7 @@ This project focuses on enhancing the accessibility of a marketing agency app by
 - **Semantic HTML:** Replaced non-semantic HTML tags with semantic ones to improve code clarity and maintainability, making it easier for future contributors to understand the structure of the app.
 - **Fixed Broken Links: ** Addressed broken links within the app to ensure a smooth user experience and seamless navigation.
 
-  ![ss_readme]/https://github.com/Meadoughnut/Market-Agency-App-Refactorization/tree/main/assets/images/ss_readme.png
+  ![ScreenShot]/https://github.com/Meadoughnut/Market-Agency-App-Refactorization/tree/main/assets/images/ss_readme.png
 
 ## Technologies Used
 
