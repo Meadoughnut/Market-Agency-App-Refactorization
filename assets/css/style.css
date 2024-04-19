@@ -25,10 +25,10 @@ body {
     color: #d9dcd6;
 }
 
-.header header {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: left;
+    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -37,7 +37,7 @@ body {
     list-style-type: none;
 }
 
-.header nav li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px ;  
 }
