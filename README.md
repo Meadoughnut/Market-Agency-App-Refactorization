@@ -21,11 +21,11 @@ This project focuses on enhancing the accessibility of a marketing agency app by
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Meadoughnut/marketing-agency-refactor.git
+   git clone https://github.com/Meadoughnut/Market-Agency-App-Refactorization.git
    ```
 2. Open the project directory:
    ```
-   cd marketing-agency-refactor
+   cd Market-Agency-App-Refactorization
    ```
 ## Challenges 
 -**Responsive design: ** The styling sheet has a specific responsive deign which is made only for desktops. For any screen less than 768px, you might notice a little different changes on  the app.
