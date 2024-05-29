@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-The next 6 block of styling is functioning for the whole but different parts of the header.
+/* The next 6 block of styling is functioning for the whole but different parts of the header. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
