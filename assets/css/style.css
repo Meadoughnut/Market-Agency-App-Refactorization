@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+The next 6 block of styling is functioning for the whole but different parts of the header.
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* sets for the whole <p> tag  */
 p {
     font-size: 16px;
 }
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* The next two section is a sepration for the side conetent and main one. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* The next styling untill 136th line is all about the aside portion of the content. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Main contents starts over here. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,12 +188,15 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* The next two styling a last portion (footer section of the content) */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
+    border: 1px, solid lightblue, ;
+    justify-items: center;
 }
 
 .footer h2 {
